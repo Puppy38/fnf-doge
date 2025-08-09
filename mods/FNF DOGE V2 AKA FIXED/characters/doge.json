@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "doge idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "doge sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "doge sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "doge sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "doge sing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLeft-alt",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRight-alt",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUp-alt",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDown-alt",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "doge idle"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "doge idle"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLeft-loop",
+			"loop": true,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRight-loop",
+			"loop": true,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUp-loop",
+			"loop": false,
+			"name": "doge sing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doge",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "doge",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		215,
+		95
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
