@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doge-pixel.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="doge idle0000" x="60" y="0" width="60" height="99" frameX="-18" frameY="-6" frameWidth="100" frameHeight="103"/>
+	<SubTexture name="doge sing0000" x="0" y="0" width="60" height="99" frameX="-18" frameY="-9" frameWidth="95" frameHeight="106"/>
+</TextureAtlas>

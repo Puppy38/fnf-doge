@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kabosutron.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="doge idle0000" x="1008" y="0" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge sing0000" x="0" y="502" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge left0000" x="672" y="0" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge down0000" x="0" y="0" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge up0000" x="672" y="502" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge right0000" x="1008" y="502" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge attack0000" x="336" y="502" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="doge attack0001" x="336" y="0" width="336" height="502" frameX="-64" frameY="2" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

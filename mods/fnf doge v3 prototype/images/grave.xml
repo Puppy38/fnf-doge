@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grave.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="grave0000" x="0" y="0" width="177" height="225" frameX="-65" frameY="-57" frameWidth="300" frameHeight="300"/>
+	<SubTexture name="graveleft0000" x="354" y="0" width="177" height="225" frameX="-65" frameY="-57" frameWidth="300" frameHeight="300"/>
+	<SubTexture name="gravedown0000" x="177" y="0" width="177" height="225" frameX="-65" frameY="-57" frameWidth="300" frameHeight="300"/>
+	<SubTexture name="graveup0000" x="0" y="225" width="177" height="225" frameX="-65" frameY="-57" frameWidth="300" frameHeight="300"/>
+	<SubTexture name="graveright0000" x="177" y="225" width="177" height="225" frameX="-65" frameY="-57" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>
