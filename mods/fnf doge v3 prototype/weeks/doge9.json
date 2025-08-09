@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"fade away",
+			"doge",
+			[
+				215,
+				215,
+				95
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "rest in peace kabosu (doge)",
+	"weekName": "doge",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

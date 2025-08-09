@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "doge idle"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "doge left"
+		},
+		{
+			"offsets": [
+				-20,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "doge down"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "doge up"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "doge right"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "doge attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kabosutron",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kabosutron",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

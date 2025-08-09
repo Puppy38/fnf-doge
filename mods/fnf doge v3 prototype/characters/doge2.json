@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "doge idle"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "doge sing"
+		},
+		{
+			"offsets": [
+				-155,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "doge sing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doge-dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "doge-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		215,
+		95
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

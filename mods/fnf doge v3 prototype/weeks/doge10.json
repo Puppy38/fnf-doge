@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"welcome",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"doge",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"cute",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"replacement",
+			"kabosutron",
+			[
+				215,
+				215,
+				95
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "after one year",
+	"weekName": "after on year",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

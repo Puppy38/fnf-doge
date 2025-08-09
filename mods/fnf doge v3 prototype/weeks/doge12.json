@@ -1,0 +1,77 @@
+{
+	"songs": [
+		[
+			"fade-away-super",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"welcome-super",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"doge-super",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"cute-super",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"replacement-super",
+			"kabosutron",
+			[
+				215,
+				215,
+				95
+			]
+		],
+		[
+			"fade-away-new-super",
+			"doge-dead",
+			[
+				215,
+				215,
+				95
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "super",
+	"weekName": "super",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
