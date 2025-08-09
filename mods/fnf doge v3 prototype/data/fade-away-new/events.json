@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				28700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nothing"
+					],
+					[
+						"Change Character",
+						"dad",
+						"doge2"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Opponent Fade",
+						"1",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}
